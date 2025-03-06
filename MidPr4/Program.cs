@@ -53,6 +53,15 @@ namespace MidPr4
                     LowestGrade();
                     break;
             }
+            //process add grade
+
+            //process remove grade
+
+            //process display grade
+
+            //process highest grade
+
+            //process lowest grade
 
             Console.ReadLine();// hold screen for user to view
         }
